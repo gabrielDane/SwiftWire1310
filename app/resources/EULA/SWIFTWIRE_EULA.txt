@@ -1,0 +1,79 @@
+﻿END USER LICENSE AGREEEMENT 
+
+A. End User License Agreement
+
+This copy of the SwiftWire Efficiency Platform ("SwiftWire") and accompanying documentation is licensed and not sold. SwiftWire is protected by copyright laws and treaties, as well as laws and treaties related to other forms of intellectual property. Fluent Systems, Inc. or its subsidiaries, affiliates, and suppliers (collectively "Fluent") own intellectual property rights in SwiftWire. The Licensee's ("you" or "your") license to download, install, use, copy, or change SwiftWire is subject to these rights and to all the terms and conditions of this End User License Agreement ("EULA"). 
+  
+Acceptance 
+
+YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS EULA BY SELECTING THE "ACCEPT" OPTION AND DOWNLOADING SWIFTWIRE OR BY INSTALLING, USING, OR COPYING SWIFTWIRE. YOU MUST AGREE TO ALL OF THE TERMS OF THIS EULA BEFORE YOU WILL BE ALLOWED TO DOWNLOAD SWIFTWIRE. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, YOU MUST SELECT "DECLINE" AND YOU MUST NOT INSTALL, USE, OR COPY SWIFTWIRE.
+
+License Grant 
+
+This EULA entitles a single Physician or Non-Physician to use SwiftWire in a manner commensurate with its intended use. Pursuant to such right, you are authorized to reproduce and install copies of SwiftWire on any number of computing devices, for use solely in conjunction with a single user profile.  A separate license must be obtained for each user whose user profile is being used by SwiftWire.  
+  
+Restrictions on Transfer 
+
+Without first obtaining the express written consent of Fluent, you may not assign your rights and obligations under this EULA, or redistribute, encumber, sell, rent, lease, sublicense, or otherwise transfer your rights to SwiftWire. 
+  
+Restrictions on Use 
+
+You may not use, copy, or install SwiftWire on any a system that allows shared used of applications, on a multi-user network, or on any configuration or system of computers that allows application sharing among multiple users.  Network or shared use or installation is only allowed if you obtain an appropriate licensing agreement for each user of SwiftWire. For further information regarding network or server licensing of SwiftWire, please contact: 
+  
+Representative:		Greg Trangmoe, General Counsel
+Phone Number:		(406) 880-2009 
+E-mail Address:		Greg@Fluent.Systems 
+
+You may not decompile, "reverse-engineer", disassemble, or otherwise attempt to derive the source code for SwiftWire. 
+
+You may not use SwiftWire commands or features to store or automate user authentication or password information.  
+
+You may not use SwiftWire commands or features to store, create, or modify health information that is subject to the Health Insurance Portability and Accountability Act of 1996, Subtitle D of the Health Information Technology for Economic and Clinical Health Act, and their implementing regulations, as amended.
+
+You may not use files or databases produced by SwiftWire in connection with any software other than SwiftWire. 
+  
+Third Party Services
+
+Fluent may employ services of third party vendors to support the use and functionality of SwiftWire.  SwiftWire users creating accounts with third party vendors are subject to all terms and conditions of the vendors for the services provided.  Fluent provides no warrantees, express or implied, for services provided by third party vendors.  
+
+Updates
+
+Fluent may from time to time in its sole discretion develop and provide SwiftWire updates, which may include upgrades, bug fixes, patches and other error corrections and/or new features (collectively, including related documentation, “Updates”). Updates may also modify or delete in their entirety certain features and functionality. You agree that Fluent has no obligation to provide any Updates or to continue to provide or enable any particular features or functionality. You further agree that all Updates will be deemed part of SwiftWire and be subject to all terms and conditions of this EULA.
+
+Ownership and Use of Data
+
+All ownership rights in and to SwiftWire shall remain exclusively with Fluent and its licensors, as applicable. Access to SwiftWire is provided to you only to allow you to exercise your rights under this EULA, and no implied license or right not expressly set forth in this EULA is granted to you.
+
+Fluent may collect and maintain data entered and uploaded by you via SwiftWire (collectively “End User Data”). You shall own all End User Data. Fluent shall maintain all personal identifiable aspects of all End User Data as confidential pursuant to the Privacy Policy. All third parties authorized by Fluent which may have access to the End User Data shall be under obligations of confidentiality to maintain the End User Data as confidential. You agree to and do hereby grant to Fluent the irrevocable, perpetual, transferrable right to use, disclose, commercialize, assign, convey, sell, lease, license or transfer any End User Data that has been processed to remove, hide, encrypt, anonymize or aggregate identifying information such that one could not, using reasonable efforts, link such information back to you.
+
+All information produced by Fluent, including, but not limited to, data, analyses, scripts, commands, measurements, reports, trends, and metrics, generated from, derived from, based on or related to End User Data (collectively “Fluent Data”) is the sole property of Fluent.  Fluent has the right to use, collect, store, create, aggregate, mine, analyze, modify, commercialize, assign, convey, sell, lease, license or transfer Fluent Data in any form, for any purpose and in any manner. Any Fluent Data provided to you shall be subject to limitations and restrictions imposed by SwiftWire's Privacy Policy and other commercial agreements to which Fluent may be a party.
+
+Restrictions on Alteration 
+
+You may not modify SwiftWire or create any derivative work of SwiftWire or its accompanying documentation. Derivative works include but are not limited to translations. You may not alter any files or libraries in any portion of SwiftWire. You may not reproduce files or databases or create any tables or reports relating to files or databases produced by SwiftWire. 
+      
+Disclaimer of Warranties and Limitation of Liability 
+
+UNLESS OTHERWISE EXPLICITLY AGREED TO IN WRITING BY FLUENT, SWIFTWIRE IS PROVIDED “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, IN FACT OR IN LAW, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. 
+ 
+FLUENT MAKES NO WARRANTY THAT SWIFTWIRE WILL MEET YOUR REQUIREMENTS OR OPERATE UNDER YOUR SPECIFIC CONDITIONS OF USE. FLUENT MAKES NO WARRANTY THAT OPERATION OF SWIFTWIRE WILL BE SECURE, ERROR FREE, OR FREE FROM INTERRUPTION. YOU MUST DETERMINE WHETHER SWIFTWIRE SUFFICIENTLY MEETS YOUR REQUIREMENTS FOR SECURITY AND UNINTERRUPTABILITY. YOU BEAR SOLE RESPONSIBILITY AND ALL LIABILITY FOR ANY LOSS INCURRED DUE TO FAILURE OF SWIFTWIRE TO MEET YOUR REQUIREMENTS. FLUENT WILL NOT, UNDER ANY CIRCUMSTANCES, BE RESPONSIBLE OR LIABLE FOR THE LOSS OF DATA ON ANY COMPUTER OR INFORMATION STORAGE DEVICE. 
+  
+UNDER NO CIRCUMSTANCES SHALL FLUENT, ITS DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY OTHER PARTY FOR INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, PUNITIVE, OR EXEMPLARY DAMAGES OF ANY KIND (INCLUDING LOST REVENUES OR PROFITS OR LOSS OF BUSINESS) RESULTING FROM THIS EULA, OR FROM THE FURNISHING, PERFORMANCE, INSTALLATION, OR USE OF SWIFTWIRE, WHETHER DUE TO A BREACH OF CONTRACT, BREACH OF WARRANTY, OR THE NEGLIGENCE OF FLUENT OR ANY OTHER PARTY, EVEN IF FLUENT IS ADVISED BEFOREHAND OF THE POSSIBILITY OF SUCH DAMAGES. TO THE EXTENT THAT THE APPLICABLE JURISDICTION LIMITS FLUENT'S ABILITY TO DISCLAIM ANY IMPLIED WARRANTIES, THIS DISCLAIMER SHALL BE EFFECTIVE TO THE MAXIMUM EXTENT PERMITTED. 
+  
+Limitation of Remedies and Damages 
+
+Your remedy for a breach of this EULA is an upgrade, correction or replacement of SwiftWire. Selection of whether to upgrade, correct or replace shall be solely at the discretion of Fluent. Fluent reserves the right to substitute a functionally equivalent copy of SwiftWire as a replacement. If Fluent is unable to provide a replacement or substitute SwiftWire or corrections to SwiftWire, there shall be no alternate remedy. 
+
+You agree to indemnify and hold Fluent harmless from all claims, judgments, liabilities, expenses, or costs arising from your breach of this EULA and/or acts or omissions. 
+  
+Governing Law, Jurisdiction and Costs 
+
+This EULA is governed by the laws of Delaware, without regard to Delaware's conflict or choice of law provisions. 
+  
+Severability 
+
+If any provision of this EULA shall be held to be invalid or unenforceable, the remainder of this EULA shall remain in full force and effect. To the extent any express or implied restrictions are not permitted by applicable laws, these express or implied restrictions shall remain in force and effect to the maximum extent permitted by such applicable laws. 
+
+Entire Agreement  
+
+This EULA constitutes the sole and complete agreement between the parties with regard to its subject matter.
